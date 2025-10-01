@@ -1,0 +1,10 @@
+public class KitchenHelper {
+    public static void main(String[] args) {
+        // calling the method
+        // Replace this argument with your own value
+         spiceUpDish(7);
+        // calling the method
+        // Replace these arguments with your own values
+        greetGuest("Harry", "Morning");
+    }
+}
