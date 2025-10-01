@@ -1,0 +1,23 @@
+    public static void spiceUpDish(int spiceLevel)// Write the method signature here
+    {
+        // Your code here!
+        switch(spiceLevel){
+            case 1:
+            System.out.println("Turmeric");
+            break;
+            case 2:
+            System.out.println("Chilli Powder");
+            break;
+            case 3:
+            System.out.println("Chilli+Heat");
+            break;
+            case 4:
+            System.out.println("Chilli Peppers");
+            break;
+            case 5:
+            System.out.println("Hot Peppers");
+            break;
+            default:
+            System.out.println("Out of Range!!");
+        }// Print ating spices based on the spiceLevel message sugges
+    }
